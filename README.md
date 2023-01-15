@@ -9,15 +9,15 @@ At first I try various of note apps and methods, but I have to say the git-markd
 
 ---
 2022-2023 period 1
-- Stochastic Methods
-- Introduction to Data Science
-- Finnish 1A
+- Stochastic Methods - 5cr - (5/5)
+- Introduction to Data Science - 5cr - (5/5)
+- Finnish 1A - 3cr - (4/5)
 
 2022-2023 period 2
-- Introduction to Machine Learning
-- Bayesian Data Analysis
-- Functional Programming (I)
-- Programming Parallel Computers
+- Introduction to Machine Learning - 5cr - (5/5)
+- Bayesian Data Analysis - 5cr - (Waiting for exam)
+- Functional Programming (I) - 5cr - (Ongoing)
+- Programming Parallel Computers - 5cr - (Ongoing)
 
 ---
 
