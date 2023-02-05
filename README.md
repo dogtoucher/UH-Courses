@@ -6,6 +6,8 @@ I am studying Theoritical and Computational Methods at the University of Helsink
 
 ## Course selection (by start time)
 
+Average grade (4.87/5)
+
 ---
 
 2022-2023 period 1 (13cr)
@@ -18,8 +20,12 @@ I am studying Theoritical and Computational Methods at the University of Helsink
 - Functional Programming (I) [(MOOC)](https://haskell.mooc.fi/) - 5cr - (5/5)
 - Bayesian Data Analysis - 5cr - (Finished, Waiting for exam)
 - Programming Parallel Computers [(MOOC)](https://ppc.cs.aalto.fi/) - 5cr - (Ongoing 2/3)
+  https://github.com/dogtoucher/Haskell_exercises
+- Bayesian Data Analysis - 5cr - (Finished, 5/5 on exercise, waiting for exam)
+- Programming Parallel Computers [(MOOC)](https://ppc.cs.aalto.fi/) - 5cr - (Ongoing 1/3)
+  https://github.com/dogtoucher/PPC
 - Full Stack open [(MOOC)](https://fullstackopen.com/en/) - 5cr - (Ongoing 2/5)
-
+  https://github.com/dogtoucher/Fullstack
 ---
 
 2022-2023 period 3 (25cr)
