@@ -18,17 +18,26 @@ Average grade (4.87/5)
 2022-2023 period 2 (25cr)
 - Introduction to Machine Learning - 5cr - (5/5)
 - Functional Programming (I) [(MOOC)](https://haskell.mooc.fi/) - 5cr - (5/5)
-- Programming Parallel Computers [(MOOC)](https://ppc.cs.aalto.fi/) - 5cr - (Ongoing 2/3)
+- Programming Parallel Computers [(MOOC)](https://ppc.cs.aalto.fi/) - 5cr - (Almost fininshed)
   https://github.com/dogtoucher/Haskell_exercises
-- Bayesian Data Analysis - 5cr - (Finished, 5/5 on exercise, waiting for exam)
+- Bayesian Data Analysis - 5cr - (Finished, waiting for score)
 - Full Stack open [(MOOC)](https://fullstackopen.com/en/) - 5cr - (Ongoing 2/5)
   https://github.com/dogtoucher/Fullstack
 
 ---
 
-2022-2023 period 3 (25cr)
-- Introduction to Deep Learning - 5cr
-- Numerical Methods in Scientific Computing - 5cr
-- Test-Driven Development [(MOOC)](https://tdd.mooc.fi/) - 5cr
+2022-2023 period 3 (20cr)
+- Introduction to Deep Learning - 5cr - (Finished)
+- Numerical Methods in Scientific Computing - 5cr - (Finished 1st part)
 - Operating Systems - 5cr
 - Functional Programming (II) [(MOOC)](https://haskell.mooc.fi/) - 5cr
+
+2022-2023 period 4 (18cr)
+- Numerical Methods in Scientific Compution - 5cr - (Start 2nd part)
+- Working with Text in Python - 5cr - (5/5)
+- Natural Language Process - 5cr - (5/5)
+- DevOps with DOcker - 3cr - (Ongoing)
+
+--- 
+
+
